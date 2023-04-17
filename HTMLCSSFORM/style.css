@@ -1,0 +1,19 @@
+body{ background-color: aqua;
+     text-align: center;
+     border: 2px solid hsl(187, 90%, 11%) ;
+     padding: 100px;
+     margin: 30px;
+     position:absolute ; left: 25%;
+    }
+h4{color: rebeccapurple;
+   font-family:sans-serif;
+}
+label1{
+    color: rgb(232, 31, 13);
+    
+}
+h6.header{
+    color: darkblue;
+    font-size: medium;
+}
+input{width: 500px; }
